@@ -1,7 +1,5 @@
 # Module 5
 
-## Name : Ramitha Chowdary S
-## Reg no : 212224240130
 
 # 1. NumPy Program: Column-wise Sorting of a 2D Array
 
